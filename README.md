@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-[simle-gif]: https://github.com/sayeed0209/React_hooks_GIPHY/blob/main/simle.JPG "Simle gif"
+
+![simle-gif]: https://github.com/sayeed0209/React_hooks_GIPHY/blob/main/simle.JPG "Simle gif"
 
 ## Available Scripts
 
