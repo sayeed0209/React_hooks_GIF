@@ -14,7 +14,7 @@ function App() {
 	};
 	useEffect(() => {
 		axios(
-			`http://api.giphy.com/v1/gifs/search?q=${query}&limit=24&api_key=obAPoDQILtaB9uXHZrWUZRq4XupFSWg3`
+			`https://api.giphy.com/v1/gifs/search?q=${query}&limit=24&api_key=obAPoDQILtaB9uXHZrWUZRq4XupFSWg3`
 		)
 			.then(response => setData(response.data.data))
 			.catch(error => console.log("Error fetching and parsing data", error))
